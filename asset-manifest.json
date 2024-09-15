@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nikolay-and-ekaterina/static/css/main.b3104b42.css",
+    "main.js": "/nikolay-and-ekaterina/static/js/main.aba67f3d.js",
+    "static/js/787.88700700.chunk.js": "/nikolay-and-ekaterina/static/js/787.88700700.chunk.js",
+    "static/media/Forum.ttf": "/nikolay-and-ekaterina/static/media/Forum.f30a601a7c9404d77b8e.ttf",
+    "static/media/back.jpg": "/nikolay-and-ekaterina/static/media/back.cb3f72574b20a4dc1a29.jpg",
+    "static/media/Lazurski.ttf": "/nikolay-and-ekaterina/static/media/Lazurski.db8a8af6719068a29d95.ttf",
+    "static/media/Denistina.ttf": "/nikolay-and-ekaterina/static/media/Denistina.5267cea436980e4e189b.ttf",
+    "static/media/divider.svg": "/nikolay-and-ekaterina/static/media/divider.55d6f5dfe4dca6be75f2528ee43a0c10.svg",
+    "static/media/bus.svg": "/nikolay-and-ekaterina/static/media/bus.a68e173ef5f5c5770537f692c6083159.svg",
+    "static/media/gift.svg": "/nikolay-and-ekaterina/static/media/gift.f1d9903af19e5f50a7b375114038018d.svg",
+    "index.html": "/nikolay-and-ekaterina/index.html",
+    "static/media/heart.svg": "/nikolay-and-ekaterina/static/media/heart.137546e077b33edf9c94bc3a20d5535b.svg",
+    "main.b3104b42.css.map": "/nikolay-and-ekaterina/static/css/main.b3104b42.css.map",
+    "main.aba67f3d.js.map": "/nikolay-and-ekaterina/static/js/main.aba67f3d.js.map",
+    "787.88700700.chunk.js.map": "/nikolay-and-ekaterina/static/js/787.88700700.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3104b42.css",
+    "static/js/main.aba67f3d.js"
+  ]
+}
