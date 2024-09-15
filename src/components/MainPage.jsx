@@ -296,20 +296,20 @@ export const MainPage = () => {
           initial="offscreen"
           whileInView="onscreen"
           viewport={{ once: true, amount: 1 }}
-          className="text"
+          className="title"
         >
-          Мы очень старались сделать праздник незабываемым, поэтому будем рады,
-          <br />
-          если Вы подтвердите свое присутствие до 01.10.2024
+          Детали
         </motion.div>
         <motion.div
           variants={titleVariants}
           initial="offscreen"
           whileInView="onscreen"
           viewport={{ once: true, amount: 1 }}
-          className="title"
+          className="text"
         >
-          Детали
+          Мы очень старались сделать праздник незабываемым, поэтому будем рады,
+          <br />
+          если Вы подтвердите свое присутствие до 01.10.2024
         </motion.div>
         <motion.div
           variants={titleVariants}
