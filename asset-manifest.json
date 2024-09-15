@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nikolay-and-ekaterina/static/css/main.b3104b42.css",
-    "main.js": "/nikolay-and-ekaterina/static/js/main.aba67f3d.js",
+    "main.js": "/nikolay-and-ekaterina/static/js/main.f8108f3b.js",
     "static/js/787.88700700.chunk.js": "/nikolay-and-ekaterina/static/js/787.88700700.chunk.js",
     "static/media/Forum.ttf": "/nikolay-and-ekaterina/static/media/Forum.f30a601a7c9404d77b8e.ttf",
     "static/media/back.jpg": "/nikolay-and-ekaterina/static/media/back.cb3f72574b20a4dc1a29.jpg",
@@ -13,11 +13,11 @@
     "index.html": "/nikolay-and-ekaterina/index.html",
     "static/media/heart.svg": "/nikolay-and-ekaterina/static/media/heart.137546e077b33edf9c94bc3a20d5535b.svg",
     "main.b3104b42.css.map": "/nikolay-and-ekaterina/static/css/main.b3104b42.css.map",
-    "main.aba67f3d.js.map": "/nikolay-and-ekaterina/static/js/main.aba67f3d.js.map",
+    "main.f8108f3b.js.map": "/nikolay-and-ekaterina/static/js/main.f8108f3b.js.map",
     "787.88700700.chunk.js.map": "/nikolay-and-ekaterina/static/js/787.88700700.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3104b42.css",
-    "static/js/main.aba67f3d.js"
+    "static/js/main.f8108f3b.js"
   ]
 }
